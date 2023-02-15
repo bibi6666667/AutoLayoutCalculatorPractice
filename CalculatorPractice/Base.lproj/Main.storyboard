@@ -153,6 +153,10 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="3eI-yz-Tjv" secondAttribute="bottom" constant="40" id="n94-wh-rFL"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="button1" destination="oPd-6p-d7X" id="28J-HU-INp"/>
+                        <outlet property="resultLabel" destination="Ofl-Kl-0w5" id="Kcj-7h-U1O"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
